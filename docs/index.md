@@ -15,6 +15,9 @@ Egyszerű landing oldal, hogy a repó tartalma gyorsan áttekinthető legyen.
 ## Mi ez?
 A Monolith Gantry projekt fájljainak (CAD / STL / DXF / stb.) gyűjtőhelye, GitHub Pages-es megjelenítéssel.
 
+👉 [Mi is ez a projekt?]({{ "/projekt/" | relative_url }})
+
+
 ## Gyors linkek
 - 📦 Fájlok böngészése: a repo mappáiban
 - 🔧 BOM / konfigurátor: az eredeti repo leírásában (README) található linkek
