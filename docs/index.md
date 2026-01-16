@@ -7,8 +7,10 @@ title: Monolith Gantry
 
 Egyszerű landing oldal, hogy a repó tartalma gyorsan áttekinthető legyen.
 
-<a class="btn" href="https://github.com/Monolith3D/Monolith_Gantry" target="_blank">Eredeti GitHub repo</a>
-<a class="btn" href="https://github.com/kopaszsop/Monolith_Gantry" target="_blank">Az én fork-om</a>
+- 🔗 [Eredeti GitHub repo](https://github.com/Monolith3D/Monolith_Gantry)
+- 🔗 [Az én fork-om](https://github.com/kopaszsop/Monolith_Gantry)
+#<a class="btn" href="https://github.com/Monolith3D/Monolith_Gantry" target="_blank">Eredeti GitHub repo</a>
+#<a class="btn" href="https://github.com/kopaszsop/Monolith_Gantry" target="_blank">Az én fork-om</a>
 
 ---
 
