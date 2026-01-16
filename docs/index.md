@@ -7,8 +7,8 @@ title: Monolith Gantry
 
 Egyszerű landing oldal, hogy a repó tartalma gyorsan áttekinthető legyen.
 
-<a class="btn" href="https://github.com/Monolith3D/Monolith_Gantry" target="_blank">Eredeti GitHub repo</a>
-<a class="btn" href="https://github.com/kopaszsop/Monolith_Gantry" target="_blank">Az én fork-om</a>
+- 🔗 [Eredeti GitHub repo](https://github.com/Monolith3D/Monolith_Gantry)
+- 🔗 [Az én fork-om](https://github.com/kopaszsop/Monolith_Gantry)
 
 ---
 
@@ -19,9 +19,12 @@ A Monolith Gantry projekt fájljainak (CAD / STL / DXF / stb.) gyűjtőhelye, Gi
 
 
 ## Gyors linkek
-- 📦 Fájlok böngészése: a repo mappáiban
-- 🔧 BOM / konfigurátor: az eredeti repo leírásában (README) található linkek
+- 📁 [CAD](https://github.com/kopaszsop/Monolith_Gantry/tree/main/CAD)
+- 📁 [STLs](https://github.com/kopaszsop/Monolith_Gantry/tree/main/STLs)
+- 📁 [DXFs](https://github.com/kopaszsop/Monolith_Gantry/tree/main/DXFs)
+- 🖼️ [Images](https://github.com/kopaszsop/Monolith_Gantry/tree/main/Images)
+
 - ⚖️ Licenc: CC BY-NC-SA 4.0 (az eredeti projekt szerint)
 
 ## Megjegyzés
-Ez az oldal csak “kirakat”, a tartalom az eredeti repó lapján érhető el.
+Ez az oldal csak egy teszt, az igazi tartalom az eredeti repón érhető el.
